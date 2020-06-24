@@ -12,3 +12,7 @@
 ## about city
 
 ## about country
+
+## about age
+
+## about sex
