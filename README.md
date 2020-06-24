@@ -1,7 +1,7 @@
 # **ForEx**
 ## it's about how to use github at first
 
-1. name : "pencil"
+1. name : "writing utensils"
 1. city
 1. country
 1. age
