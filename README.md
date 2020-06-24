@@ -5,7 +5,6 @@
 1. city
 1. country
 1. age
-1. sex
 
 ## about name
 
@@ -15,4 +14,3 @@
 
 ## about age
 
-## about sex
