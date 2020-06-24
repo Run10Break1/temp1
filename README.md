@@ -8,3 +8,7 @@
 1. sex
 
 ## about name
+
+## about city
+
+## about country
